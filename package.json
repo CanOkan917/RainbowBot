@@ -1,0 +1,22 @@
+{
+  "name": "discord-rainbow-role",
+  "version": "1.0.0",
+  "description": "Getting a Rainbow Role with a Discord Bot **using Discord.JS**",
+  "main": "RainbowRole.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3ijtKwijt/Discord-Rainbow-Role.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3ijtKwijt/Discord-Rainbow-Role/issues"
+  },
+  "homepage": "https://github.com/3ijtKwijt/Discord-Rainbow-Role#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}

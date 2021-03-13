@@ -1,0 +1,11 @@
+{
+	"token": "TOKEN",
+	"servers": [
+		"SERVER ID 1",
+		"SERVER ID 2"
+	],
+	"roleName": "᲼",
+	"colors": 50,
+	"speed": 50,
+	"logging": true
+}
